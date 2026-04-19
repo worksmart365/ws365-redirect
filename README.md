@@ -13,3 +13,4 @@ Alle Pfade landen auf der Startseite von worksmart365.ch. Keine Pfad-Übernahme.
 
 MX- und zugehörige Records auf `ws365.ch` bleiben unverändert – Microsoft-365-E-Mail
 läuft weiterhin. Nur Web-Traffic wird umgeleitet.
+# Trigger rebuild 2026-04-19T16:54:30Z
